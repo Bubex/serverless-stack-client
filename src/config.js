@@ -1,4 +1,6 @@
 const config = {
+    STRIPE_KEY: "pk_test_51Iv9cfDZcGhTGqWXzJ8cWLYbRHKEKtGWdV9lnkd5lTgNkp6rOEFbWREBjO48Eiaka0YLaRh9FMyIHuuwk9Br2Nv2009OTvEXnk",
+    MAX_ATTACHMENT_SIZE: 5000000,
     s3: {
       REGION: "us-east-1",
       BUCKET: "marlonf-notes-app-upload",
